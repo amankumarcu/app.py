@@ -4,3 +4,4 @@ pip install pandas
 pip install chart_studio
 pip install fbprophet
 pip install streamlit
+pip install sklearn
